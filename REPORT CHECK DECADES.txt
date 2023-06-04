@@ -1,0 +1,26 @@
+Corpus C:\Users\milab\Documents\NooJ\en\Projects\DECADESEN.noc
+
+8 texts	535851 characters
+
+NT: 	number of texts in corpus = 8
+NM: 	number of matches in corpus
+AF: 	absolute frequency in each text
+RS: 	relative size of each text (in chars) = size of each text / total size of corpus
+EF: 	expected frequency in each text = NM * RS
+SD: 	standard deviation = Sqr (Sum (AF - EF)^2) / NT)
+NSD: 	normalized standard deviation = SD/NM
+SS: 	standard score = (AF - EF) / SD
+
+
+Text           	Size   	NM = 3958
+SD = 382,815447061674
+NSD = 0,0967194156295285
+Part           	Size   	AF	EF	SS	
+RL_Projekt_00-te    	70928	253	523,901278527053	-0,707655034838261	
+RL_Projekt_10-te    	149645	1028	1105,33508381994	-0,202016622927662	
+RL_Projekt_20-te    	176053	2256	1300,39465075179	2,49625598074221	
+RL_Projekt_50-te    	5334	0	39,3989597854628	-0,102918939368493	
+RL_Projekt_60-te    	11891	21	87,8314643436328	-0,174578807769128	
+RL_Projekt_70-te    	60556	36	447,289727928099	-1,07438122229649	
+RL_Projekt_80-te    	29851	158	220,490878994347	-0,163240223125792	
+RL_Projekt_90-te    	31593	206	233,357955849667	-0,0714651304163796	

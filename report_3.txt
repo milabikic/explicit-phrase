@@ -1,0 +1,26 @@
+Corpus C:\Users\Mila Bikić\OneDrive - Sveučilište u Zagrebu, Filozofski fakultet\Dokumenti\NooJ\en\Projects\Pjesme_žanrovi.noc
+
+8 texts	535851 characters
+
+NT: 	number of texts in corpus = 8
+NM: 	number of matches in corpus
+AF: 	absolute frequency in each text
+RS: 	relative size of each text (in chars) = size of each text / total size of corpus
+EF: 	expected frequency in each text = NM * RS
+SD: 	standard deviation = Sqr (Sum (AF - EF)^2) / NT)
+NSD: 	normalized standard deviation = SD/NM
+SS: 	standard score = (AF - EF) / SD
+
+
+Text           	Size   	NM = 1174
+SD = 70,5835005868294
+NSD = 0,0601222321863965
+Part           	Size   	AF	EF	SS	
+RL_Projekt_00-te    	70928	127	155,396690497918	-0,4023134339021	
+RL_Projekt_10-te    	149645	409	327,858359879892	1,14958367671621	
+RL_Projekt_20-te    	176053	512	385,71584638267	1,78914551655	
+RL_Projekt_50-te    	5334	0	11,6863008560215	-0,165567034205755	
+RL_Projekt_60-te    	11891	3	26,0520816420983	-0,326593062832586	
+RL_Projekt_70-te    	60556	9	132,672597419805	-1,75214598867433	
+RL_Projekt_80-te    	29851	42	65,4007811873077	-0,331533304423189	
+RL_Projekt_90-te    	31593	72	69,2173421342873	0,0394236307717486	

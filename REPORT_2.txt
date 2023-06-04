@@ -1,0 +1,30 @@
+Corpus C:\Users\Mila Bikić\OneDrive - Sveučilište u Zagrebu, Filozofski fakultet\Dokumenti\NooJ\en\Projects\Pjesme_žanrovi.noc
+
+12 texts	548603 characters
+
+NT: 	number of texts in corpus = 12
+NM: 	number of matches in corpus
+AF: 	absolute frequency in each text
+RS: 	relative size of each text (in chars) = size of each text / total size of corpus
+EF: 	expected frequency in each text = NM * RS
+SD: 	standard deviation = Sqr (Sum (AF - EF)^2) / NT)
+NSD: 	normalized standard deviation = SD/NM
+SS: 	standard score = (AF - EF) / SD
+
+
+Text           	Size   	NM = 977
+SD = 137,505826219053
+NSD = 0,140742913223186
+Part           	Size   	AF	EF	SS	
+RL_Projekt_COUNTRY_F	36420	5	64,8599078021812	-0,435326338149641	
+RL_Projekt_COUNTRY_M	42240	5	75,2246706634853	-0,510703237778552	
+RL_Projekt_FUNK_FEMA	39002	6	69,4581582674539	-0,46149432363951	
+RL_Projekt_FUNK_MALE	38870	15	69,2230811716305	-0,394332972373481	
+RL_Projekt_HIP_HOP_F	65824	533	117,225111783931	3,02368924756483	
+RL_Projekt_HIP_HOP_M	78487	284	139,776484999171	1,04885384835312	
+RL_Projekt_POP_FEMAL	41362	39	73,6610517988418	-0,252069695895105	
+RL_Projekt_POP_MALE 	48560	5	86,4798770695749	-0,592555816069741	
+RL_Projekt_RNB_FEMAL	44958	29	80,0651217729396	-0,371366968055525	
+RL_Projekt_RNB_MALE 	41724	28	74,3057329252665	-0,336754697590046	
+RL_Projekt_ROCK_FEMA	34900	1	62,152959426033	-0,444729951504845	
+RL_Projekt_ROCK_MALE	36256	27	64,5678423194915	-0,27320909486151	

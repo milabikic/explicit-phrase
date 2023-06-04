@@ -1,0 +1,30 @@
+Corpus C:\Users\milab\Documents\NooJ\en\Projects\GENRES_EN.noc
+
+12 texts	1097206 characters
+
+NT: 	number of texts in corpus = 12
+NM: 	number of matches in corpus
+AF: 	absolute frequency in each text
+RS: 	relative size of each text (in chars) = size of each text / total size of corpus
+EF: 	expected frequency in each text = NM * RS
+SD: 	standard deviation = Sqr (Sum (AF - EF)^2) / NT)
+NSD: 	normalized standard deviation = SD/NM
+SS: 	standard score = (AF - EF) / SD
+
+
+Text           	Size   	NM = 1402
+SD = 193,44703188769
+NSD = 0,137979338008338
+Part           	Size   	AF	EF	SS	
+RL_Projekt_COUNTRY_F	36420	6	46,5371498150758	-0,209551676340067	
+RL_Projekt_COUNTRY_M	42240	6	53,9738936899725	-0,24799498457968	
+RL_Projekt_FUNK_FEMA	39002	12	49,8364062901588	-0,195590523777722	
+RL_Projekt_FUNK_MALE	38870	52	49,6677378723777	0,0120563345162949	
+RL_Projekt_HIP_HOP_F	65824	673	84,1093176668739	3,044196008523	
+RL_Projekt_HIP_HOP_M	78487	404	100,289985654471	1,56999056218063	
+RL_Projekt_POP_FEMAL	41362	60	52,851993153519	0,036950718637187	
+RL_Projekt_POP_MALE 	48560	18	62,0495330867677	-0,227708498067531	
+RL_Projekt_RNB_FEMAL	44958	39	57,446929747012	-0,0953590735769044	
+RL_Projekt_RNB_MALE 	41724	64	53,3145535113734	0,055237066107224	
+RL_Projekt_ROCK_FEMA	34900	2	44,5949074285048	-0,220188994438717	
+RL_Projekt_ROCK_MALE	36256	66	46,3275920838931	0,101694028200589	
